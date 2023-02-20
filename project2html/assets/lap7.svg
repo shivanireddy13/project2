@@ -18,9 +18,7 @@
 	.st12{fill:none;stroke:#9F00C6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
 	.st13{font-family:'TitilliumWeb-Bold';}
 	.st14{font-size:20px;}
-	.st15{opacity:0.3;}
-	.st16{fill:none;stroke:#000000;stroke-width:0.3;}
-	.st17{font-size:12px;}
+	.st15{font-size:12px;}
 </style>
 <rect x="-0.2" width="1080.5" height="382"/>
 <rect x="77.8" y="44.8" class="st0" width="778.2" height="298.4"/>
@@ -115,31 +113,17 @@
 <text transform="matrix(1 0 0 1 766.4543 356.0921)" class="st4 st5 st6">4000 m</text>
 <rect x="38.4" y="175.7" class="st0" width="15" height="36.6"/>
 <text transform="matrix(6.123234e-17 -1 1 6.123234e-17 49.2629 212.2598)" class="st8 st9">Speed</text>
-<text transform="matrix(1 0 0 1 903.2557 113.2551)" class="st4 st8 st9">Driver</text>
-<line class="st1" x1="896.9" y1="132.5" x2="912.8" y2="132.5"/>
-<line class="st2" x1="895.1" y1="156.8" x2="911" y2="156.8"/>
-<text transform="matrix(1 0 0 1 921.1185 136.1171)" class="st10 st8 st6">VER</text>
+<text transform="matrix(1 0 0 1 986.9742 166.127)" class="st4 st8 st9">Driver</text>
+<line class="st1" x1="980.6" y1="185.4" x2="996.5" y2="185.4"/>
+<line class="st2" x1="978.8" y1="209.6" x2="994.7" y2="209.6"/>
+<text transform="matrix(1 0 0 1 1004.837 188.989)" class="st10 st8 st6">VER</text>
 <g class="st11">
-	<text transform="matrix(1 0 0 1 919.3419 160.4013)" class="st12 st8 st6">HAM</text>
+	<text transform="matrix(1 0 0 1 1003.0604 213.2732)" class="st12 st8 st6">HAM</text>
 </g>
 <rect x="381.1" y="57.6" class="st0" width="50" height="23.7"/>
 <text transform="matrix(1 0 0 1 15.9087 22.933)" class="st4 st13 st14">Hamilton skids to a near-stop after collision with Verstappen</text>
 <rect x="78.4" y="36.2" width="788.8" height="15"/>
 <rect x="857" y="13.9" width="10.2" height="328.3"/>
-<g class="st15">
-	<g>
-		<rect x="651.2" y="-3" class="st4" width="370.9" height="385"/>
-		<rect x="651.2" y="-3" class="st4" width="370.9" height="385"/>
-	</g>
-	<line class="st16" x1="651.2" y1="-57" x2="651.2" y2="-21"/>
-	<line class="st16" x1="597.2" y1="-3" x2="633.2" y2="-3"/>
-	<line class="st16" x1="597.2" y1="382" x2="633.2" y2="382"/>
-	<line class="st16" x1="651.2" y1="436" x2="651.2" y2="400"/>
-	<line class="st16" x1="1022.1" y1="-57" x2="1022.1" y2="-21"/>
-	<line class="st16" x1="1076.1" y1="-3" x2="1040.1" y2="-3"/>
-	<line class="st16" x1="1076.1" y1="382" x2="1040.1" y2="382"/>
-	<line class="st16" x1="1022.1" y1="436" x2="1022.1" y2="400"/>
-</g>
-<rect x="845.7" y="262.1" class="st0" width="168.9" height="92.3"/>
-<text transform="matrix(1 0 0 1 845.6562 270.6722)"><tspan x="0" y="0" class="st4 st5 st17">Hamilton skid off-track and had </tspan><tspan x="0" y="14.4" class="st4 st5 st17">to slow down significantly quickly </tspan><tspan x="0" y="28.8" class="st4 st5 st17">so he wouldn’t hit a barrier.</tspan></text>
+<rect x="836.7" y="289.7" class="st0" width="168.9" height="92.3"/>
+<text transform="matrix(1 0 0 1 836.7009 298.3286)"><tspan x="0" y="0" class="st4 st5 st15">Hamilton skid off-track and had </tspan><tspan x="0" y="14.4" class="st4 st5 st15">to slow down significantly quickly </tspan><tspan x="0" y="28.8" class="st4 st5 st15">so he wouldn’t hit a barrier.</tspan></text>
 </svg>
