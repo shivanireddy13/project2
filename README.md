@@ -8,7 +8,7 @@ This data is my attempt to understand a race weekend that was thrilling to exper
 I used the fastf1 API and its extensive documentation on graphing race telemetry to collect data about the Brazil, 2022, Q and R sessions. I cleaned the data I acquired minimally in Pandas, and then plotted it using ggplot, matplotlib and seaborn. I cleaned up the graphs I made further in Adobe Illustrator.
 
 ## Tools used (and skills gained)
-<ul>Fast F1 API
+<ul>Fast F1 API</ul>
 <ul>Pandas</ul>
 <ul>Jupyter Notebook</ul>
 <ul>GGPlot</ul>
