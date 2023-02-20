@@ -1,0 +1,2 @@
+,Time,DriverNumber,LapTime,LapNumber,PitOutTime,PitInTime,Sector1Time,Sector2Time,Sector3Time,Sector1SessionTime,Sector2SessionTime,Sector3SessionTime,SpeedI1,SpeedI2,SpeedFL,SpeedST,IsPersonalBest,Compound,TyreLife,FreshTyre,Stint,LapStartTime,Team,Driver,TrackStatus,IsAccurate,LapStartDate
+1256,0 days 01:03:15.105000,20,,0.0,,,,,,,,,,,,,False,MEDIUM,1.0,True,1,0 days 01:01:46.277000,Haas F1 Team,MAG,24,False,2022-11-13 18:02:47.303
