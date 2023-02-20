@@ -1,5 +1,5 @@
 # An Analysis of Formula One 2022's Best Race
-This project visualizes the Brazilian Grand Prix 2022. 
+This project visualizes the Brazilian Grand Prix of 2022. 
 
 ## Summary 
 This data is my attempt to understand a race weekend that was thrilling to experience. I visualized some of its best moments, including Kevin Magnussen's shock pole, Hamilton and Verstappen's collision and Russell's win.
