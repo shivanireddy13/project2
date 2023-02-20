@@ -3,7 +3,7 @@
 
 body {
     background-color: black;
-    font-family: 'Titillium Web', 'Arial Narrow Bold';
+    font-family: 'Titillium Web', 'Helvetica';
     color: #ffffff;
     /* margin-left: 20%;
     margin-right:20%; */
@@ -34,7 +34,7 @@ h1 {
     font-size: 60px;
     font-weight: 600;
     color: #ffffff;
-    font-family: 'Titillium Web', 'Arial Narrow Bold';
+    font-family: 'Titillium Web', 'Helvetica';
 }
 
 h2 {
